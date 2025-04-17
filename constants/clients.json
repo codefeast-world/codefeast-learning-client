@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Capgemini",
+      "logo": "/assets/company-logos/capgemini-logo.svg"
+    },
+    {
+      "name": "IBM",
+      "logo": "/assets/company-logos/ibm-logo.svg"
+    },
+    {
+      "name": "PayPal",
+      "logo": "/assets/company-logos/paypal-logo.svg"
+    },
+    {
+      "name": "VISA",
+      "logo": "/assets/company-logos/visa-logo.svg"
+    },
+    {
+      "name": "Walmart",
+      "logo": "/assets/company-logos/walmart-logo.svg"
+    }
+  ]
+  

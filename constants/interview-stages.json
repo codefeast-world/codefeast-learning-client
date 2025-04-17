@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Application Review",
+        "description": "We’ll assess your resume and portfolio for role fit.",
+        "image": "/assets/careers/application-review.svg"
+    },
+    {
+        "title": "Screening Interview",
+        "description": "A quick chat about your background",
+        "image": "/assets/careers/screening-interview.svg"
+    },
+    {
+        "title": "Technical Interview",
+        "description": "You may need to take a technical assessment.",
+        "image": "/assets/careers/technical-interview.svg"
+    },
+    {
+        "title": "Team Interview",
+        "description": "Interview to assess team fit and collaboration skills.",
+        "image": "/assets/careers/team-interview.svg"
+    }
+]

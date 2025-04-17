@@ -1,0 +1,77 @@
+{
+    "features": [
+      {
+        "icon": "Lightbulb",
+        "title": "Personalised Learning Paths",
+        "description": "We create custom learning journeys based on your current skills and future goals."
+      },
+      {
+        "icon": "Settings",
+        "title": "Comprehensive Curriculum",
+        "description": "From basics to advanced topics, we guide you through every phase of your coding journey."
+      },
+      {
+        "icon": "Brain",
+        "title": "Expert Mentorship",
+        "description": "Learn from experienced developers who’ve mastered real-world technologies."
+      },
+      {
+        "icon": "Shield",
+        "title": "Secure & Ethical Coding",
+        "description": "We emphasize secure coding practices and industry ethics from day one."
+      },
+      {
+        "icon": "Clock",
+        "title": "Flexible Scheduling",
+        "description": "Train at your pace—on evenings, weekends, or full-time. We adapt to your lifestyle."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Affordable Programs",
+        "description": "High-quality mentorship and training without breaking the bank."
+      }
+    ],
+    "strengths": [
+      {
+        "icon": "Code",
+        "title": "Hands-On Project Training",
+        "points": [
+          "Build real-world projects using React, Node.js, Next.js, MongoDB, and more.",
+          "Gain practical experience with Git, APIs, and deployment tools."
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Learner-First Philosophy",
+        "points": [
+          "We adapt teaching methods to your pace and learning style.",
+          "Mentors provide one-on-one guidance to help you overcome roadblocks."
+        ]
+      },
+      {
+        "icon": "Zap",
+        "title": "Fast-Track Job Readiness",
+        "points": [
+          "Resume reviews, mock interviews, and job prep from week one.",
+          "Land interviews faster with portfolio-ready projects and career support."
+        ]
+      },
+      {
+        "icon": "Lock",
+        "title": "Secure Learning Environment",
+        "points": [
+          "Private codebases and secure platforms for all assignments.",
+          "We train students in secure development and responsible tech use."
+        ]
+      },
+      {
+        "icon": "MessageSquare",
+        "title": "Transparent Mentorship & Feedback",
+        "points": [
+          "Weekly check-ins, feedback loops, and open Q&A sessions.",
+          "Our mentors are always accessible and invested in your success."
+        ]
+      }
+    ]
+  }
+  

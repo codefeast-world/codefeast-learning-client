@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Information We Collect",
+    "content": [
+      "Personal & Contact Information: Name, email, phone number, learning preferences, educational background, and communication preferences.",
+      "Learning & Engagement Information: Course enrolments, quiz or assignment submissions, mentorship session logs, feedback, and progress tracking.",
+      "Technical Data: IP addresses, browser type, device data, access logs, and usage statistics for our learning platform or tools.",
+      "Cookies & Usage Tracking: We use cookies to enhance the learning experience and platform performance. You can manage cookie preferences via your browser settings."
+    ]
+  },
+  {
+    "title": "How We Use Your Information",
+    "content": [
+      "Provide personalized learning experiences, mentorship, and coding-related support.",
+      "Communicate important updates about classes, mentorship sessions, resources, or platform features.",
+      "Manage billing, course access, certifications, and support queries.",
+      "Ensure platform security, address technical issues, and analyze educational outcomes.",
+      "Fulfill legal and regulatory obligations where applicable."
+    ]
+  },
+  {
+    "title": "Confidentiality & Data Sharing",
+    "content": [
+      "We do not sell or rent your information. Your learning data is handled with strict confidentiality. We may share information only with:",
+      "Authorized instructors or mentors supporting your learning journey.",
+      "Trusted third-party service providers, such as:",
+      "• Payment processors",
+      "• Hosting services",
+      "• Learning and communication tools (e.g., Zoom, Google Classroom, Slack)",
+      "Legal authorities, if required by law or to defend our legal rights."
+    ]
+  },
+  {
+    "title": "Data Security",
+    "content": [
+      "Role-based access control for instructors and staff.",
+      "Encryption for sensitive data such as payment and login details.",
+      "Secure servers and infrastructure for hosting the learning platform.",
+      "Data protection protocols and confidentiality agreements with educators and team members."
+    ]
+  },
+  {
+    "title": "Data Retention",
+    "content": [
+      "We retain data only for as long as necessary to:",
+      "• Maintain learning records and certification history.",
+      "• Support ongoing mentorship and alumni services.",
+      "• Comply with financial, legal, or academic requirements.",
+      "You may request deletion or anonymization of your data upon course completion, subject to legal constraints."
+    ]
+  },
+  {
+    "title": "Your Rights",
+    "content": [
+      "Access your personal and learning-related data held by us.",
+      "Request corrections or updates to inaccurate information.",
+      "Request data deletion, where legally permissible.",
+      "Request information about our data handling and privacy practices."
+    ]
+  },
+  {
+    "title": "Third-Party Tools & Links",
+    "content": [
+      "In the course of learning, we may use third-party tools and platforms. These may include:",
+      "• Code sharing platforms (GitHub, Replit)",
+      "• Communication tools (Slack, Zoom)",
+      "• Learning management tools (Google Classroom, Notion)",
+      "We are not responsible for the privacy practices of these platforms, but we only collaborate with reputable, secure service providers."
+    ]
+  },
+  {
+    "title": "Changes to This Policy",
+    "content": [
+      "We may update this policy from time to time to reflect changes in our learning services or privacy regulations. Updates will be communicated via email or our website.",
+      "The most current version will always be accessible at https://www.codefeast.in/privacy."
+    ]
+  },
+  {
+    "title": "Contact Us",
+    "content": [
+      "For privacy-related inquiries, please reach out to:",
+      "Codefeast Technologies",
+      "Email: hello@codefeast.in",
+      "Website: https://www.codefeast.in"
+    ]
+  }
+]

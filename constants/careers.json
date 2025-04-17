@@ -1,0 +1,219 @@
+[
+    {
+      "id": "job001",
+      "title": "WordPress Developer",
+      "description": "Build and maintain WordPress-based websites with high performance.",
+      "experience": "1 Year",
+      "deadline": "2025-05-01",
+      "tag": "Engineering"
+    },
+    {
+      "id": "job002",
+      "title": "JavaScript Developer",
+      "description": "Develop dynamic web applications using JavaScript and modern frameworks.",
+      "experience": "2 Years",
+      "deadline": "2025-05-10",
+      "tag": "Engineering"
+    },
+    {
+      "id": "job003",
+      "title": "Frontend Engineer",
+      "description": "Create user-facing features with React.js and Tailwind CSS.",
+      "experience": "1-3 Years",
+      "deadline": "2025-05-12",
+      "tag": "Engineering"
+    },
+    {
+      "id": "job004",
+      "title": "HR Executive",
+      "description": "Manage recruitment, onboarding, and employee engagement activities.",
+      "experience": "1 Year",
+      "deadline": "2025-05-03",
+      "tag": "HR & Admin"
+    },
+    {
+      "id": "job005",
+      "title": "Office Administrator",
+      "description": "Oversee daily operations and office coordination tasks.",
+      "experience": "2+ Years",
+      "deadline": "2025-05-06",
+      "tag": "HR & Admin"
+    },
+    {
+      "id": "job006",
+      "title": "People Operations Manager",
+      "description": "Drive culture, compliance, and team happiness initiatives.",
+      "experience": "3+ Years",
+      "deadline": "2025-05-11",
+      "tag": "HR & Admin"
+    },
+    {
+      "id": "job007",
+      "title": "Technical Support Engineer",
+      "description": "Assist users in resolving software and hardware issues.",
+      "experience": "1-2 Years",
+      "deadline": "2025-05-02",
+      "tag": "Support"
+    },
+    {
+      "id": "job008",
+      "title": "Customer Success Associate",
+      "description": "Ensure customer satisfaction through proactive support and follow-ups.",
+      "experience": "Fresher",
+      "deadline": "2025-05-08",
+      "tag": "Support"
+    },
+    {
+      "id": "job009",
+      "title": "Helpdesk Specialist",
+      "description": "Provide quick technical resolutions via chat and email.",
+      "experience": "1 Year",
+      "deadline": "2025-05-14",
+      "tag": "Support"
+    },
+    {
+      "id": "job010",
+      "title": "UI/UX Designer",
+      "description": "Design clean, intuitive interfaces for web and mobile apps.",
+      "experience": "2+ Years",
+      "deadline": "2025-05-06",
+      "tag": "Design"
+    },
+    {
+      "id": "job011",
+      "title": "Graphic Designer",
+      "description": "Create visual content for brand, marketing, and product.",
+      "experience": "1 Year",
+      "deadline": "2025-05-10",
+      "tag": "Design"
+    },
+    {
+      "id": "job012",
+      "title": "Product Designer",
+      "description": "Design product flows and interactions that delight users.",
+      "experience": "2-3 Years",
+      "deadline": "2025-05-13",
+      "tag": "Design"
+    },
+    {
+      "id": "job013",
+      "title": "SEO Specialist",
+      "description": "Optimize content and pages to boost search engine visibility.",
+      "experience": "2 Years",
+      "deadline": "2025-05-04",
+      "tag": "Digital Marketing"
+    },
+    {
+      "id": "job014",
+      "title": "Social Media Manager",
+      "description": "Create and execute social media strategies and campaigns.",
+      "experience": "1-2 Years",
+      "deadline": "2025-05-15",
+      "tag": "Digital Marketing"
+    },
+    {
+      "id": "job015",
+      "title": "Email Marketing Executive",
+      "description": "Plan and send email campaigns to drive engagement.",
+      "experience": "Fresher",
+      "deadline": "2025-05-09",
+      "tag": "Digital Marketing"
+    },
+    {
+      "id": "job016",
+      "title": "Content Strategist",
+      "description": "Plan and manage digital content across all platforms.",
+      "experience": "2+ Years",
+      "deadline": "2025-05-11",
+      "tag": "Mktg"
+    },
+    {
+      "id": "job017",
+      "title": "Marketing Analyst",
+      "description": "Analyze campaign performance and provide data-driven insights.",
+      "experience": "1 Year",
+      "deadline": "2025-05-05",
+      "tag": "Mktg"
+    },
+    {
+      "id": "job018",
+      "title": "Brand Manager",
+      "description": "Develop brand positioning and creative marketing campaigns.",
+      "experience": "3 Years",
+      "deadline": "2025-05-12",
+      "tag": "Mktg"
+    },
+    {
+      "id": "job019",
+      "title": "Web Performance Analyst",
+      "description": "Measure and improve website speed and usability.",
+      "experience": "2 Years",
+      "deadline": "2025-05-04",
+      "tag": "Web Tips"
+    },
+    {
+      "id": "job020",
+      "title": "Accessibility Auditor",
+      "description": "Ensure website accessibility compliance with WCAG standards.",
+      "experience": "1 Year",
+      "deadline": "2025-05-07",
+      "tag": "Web Tips"
+    },
+    {
+      "id": "job021",
+      "title": "Conversion Rate Optimizer",
+      "description": "Optimize web pages for better conversion and engagement.",
+      "experience": "2 Years",
+      "deadline": "2025-05-10",
+      "tag": "Web Tips"
+    },
+    {
+      "id": "job022",
+      "title": "Copywriter",
+      "description": "Write persuasive marketing and product copy.",
+      "experience": "Fresher",
+      "deadline": "2025-05-08",
+      "tag": "Writ Lab"
+    },
+    {
+      "id": "job023",
+      "title": "Technical Writer",
+      "description": "Document software features and APIs for end users.",
+      "experience": "1 Year",
+      "deadline": "2025-05-06",
+      "tag": "Writ Lab"
+    },
+    {
+      "id": "job024",
+      "title": "Blog Editor",
+      "description": "Edit and publish blogs with consistent tone and accuracy.",
+      "experience": "2 Years",
+      "deadline": "2025-05-09",
+      "tag": "Writ Lab"
+    },
+    {
+      "id": "job025",
+      "title": "Investigative Reporter",
+      "description": "Research and report in-depth stories on current events.",
+      "experience": "2 Years",
+      "deadline": "2025-05-07",
+      "tag": "News Hacks"
+    },
+    {
+      "id": "job026",
+      "title": "News Curator",
+      "description": "Compile and summarize the most important daily news.",
+      "experience": "1-2 Years",
+      "deadline": "2025-05-13",
+      "tag": "News Hacks"
+    },
+    {
+      "id": "job027",
+      "title": "Fact Checker",
+      "description": "Verify facts and sources in news content before publishing.",
+      "experience": "2 Years",
+      "deadline": "2025-05-07",
+      "tag": "News Hacks"
+    }
+  ]
+  

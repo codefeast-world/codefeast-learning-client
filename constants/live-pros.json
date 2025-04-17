@@ -1,0 +1,23 @@
+[
+    {
+      "image": "/assets/live-pros/awesome-classes.svg",
+      "title": "Awesome Classes!",
+      "description": "Goodbye, boring textbooks & lectures!"
+    },
+    {
+      "image": "/assets/live-pros/affordable-mentorship.svg",
+      "title": "Value Mentorship",
+      "description": "Easily book personalized sessions at affordable price"
+    },
+    {
+      "image": "/assets/live-pros/master-coding.svg",
+      "title": "Master coding",
+      "description": "Designed for beginners to coding wizards"
+    },
+    {
+      "image": "/assets/live-pros/non-it.svg",
+      "title": "Also for Non-IT",
+      "description": "Tailored mentorship to keep you on track."
+    }
+  ]
+  

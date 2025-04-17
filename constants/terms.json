@@ -1,0 +1,74 @@
+[
+  {
+    "id": "introduction",
+    "title": "Introduction",
+    "content": "Welcome to Codefeast! Our Terms and Conditions outline the essential rules and guidelines for participating in our coding training and mentorship programs. By enrolling or engaging with Codefeast, you agree to follow these terms, designed to ensure a safe, enriching, and empowering learning environment for all. We encourage you to read them thoroughly to understand your rights and responsibilities.",
+    "tag": "Introduction"
+  },
+  {
+    "id": "eligibility",
+    "title": "Eligibility",
+    "content": "To enrol in our training and mentorship programs, you must be at least 18 years old or meet the minimum legal age required in your region. By joining our platform, you confirm that you meet the eligibility criteria. This ensures that learners can responsibly engage with the educational material and mentorship services we provide.",
+    "tag": "Eligibility"
+  },
+  {
+    "id": "account-responsibilities",
+    "title": "Account Responsibilities",
+    "content": "As a student or mentee, you're responsible for maintaining the confidentiality of your account credentials and for all activity conducted through your account. Codefeast is not liable for any issues arising from unauthorized access due to negligence. Please ensure that your login details remain secure and notify us immediately of any suspicious behaviour.",
+    "tag": "Account Responsibilities"
+  },
+  {
+    "id": "acceptable-use-policy",
+    "title": "Acceptable Use Policy",
+    "content": "You agree not to misuse our learning platform—including but not limited to plagiarism, harassment, or disruptive behaviour during sessions. Any such activity may result in suspension or termination of access. Our aim is to cultivate a positive, respectful learning space for all aspiring developers.",
+    "tag": "Acceptable Use Policy"
+  },
+  {
+    "id": "payments-and-refunds",
+    "title": "Payments and Refunds",
+    "content": "Course fees and mentorship program charges must be paid upfront unless stated otherwise. Refunds will be governed by our Refund Policy, which details the conditions under which partial or full refunds may apply. We advise all learners to review this policy before enrolment to ensure clarity and transparency.",
+    "tag": "Payments and Refunds"
+  },
+  {
+    "id": "intellectual-property-rights",
+    "title": "Intellectual Property Rights",
+    "content": "All learning materials, videos, notes, and code samples provided by Codefeast are protected by copyright and remain the intellectual property of Codefeast. Reproduction, resale, or redistribution of this material is strictly prohibited. These rights ensure we maintain the quality and uniqueness of our educational content.",
+    "tag": "Intellectual Property Rights"
+  },
+  {
+    "id": "limitation-of-liability",
+    "title": "Limitation of Liability",
+    "content": "Codefeast is not liable for any direct or indirect losses or consequences resulting from the use of our training or mentorship services. While we strive to deliver top-tier education, learners are responsible for applying the knowledge and making their own career decisions.",
+    "tag": "Limitation of Liability"
+  },
+  {
+    "id": "privacy-policy",
+    "title": "Privacy Policy",
+    "content": "Please review our Privacy Policy to understand how we collect and use your data, including enrollment details, progress records, and contact information. At Codefeast, we prioritise your privacy and are committed to handling your information responsibly and transparently.",
+    "tag": "Privacy Policy"
+  },
+  {
+    "id": "termination",
+    "title": "Termination",
+    "content": "Codefeast reserves the right to terminate your access to training programs or mentorship services if any of the terms are violated. This helps us maintain a safe and focused learning environment for all our participants.",
+    "tag": "Termination"
+  },
+  {
+    "id": "modifications-to-terms",
+    "title": "Modifications to Terms",
+    "content": "We may update these Terms and Conditions as our training programs evolve. Any changes will be communicated via email or published on our website. Continued participation implies agreement to the updated terms, so we recommend reviewing them regularly.",
+    "tag": "Modifications to Terms"
+  },
+  {
+    "id": "governing-law",
+    "title": "Governing Law",
+    "content": "These terms are governed by the laws of India and fall under the jurisdiction of the courts of Meerut, Uttar Pradesh. By joining our programs, you accept this legal framework and agree to resolve any disputes accordingly.",
+    "tag": "Governing Law"
+  },
+  {
+    "id": "contact-information",
+    "title": "Contact Information",
+    "content": "If you have questions or concerns about these terms, feel free to contact us at hello@codefeast.in. Our support team is always ready to assist you and ensure a smooth learning experience.",
+    "tag": "Contact Information"
+  }
+]

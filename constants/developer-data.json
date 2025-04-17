@@ -1,0 +1,32 @@
+[
+    {
+        "image": "/assets/developer-section/code.svg",
+        "title": "Frontend Developer",
+        "description": "Expert in UI/UX, React, Vue, Angular, etc."
+    },
+    {
+        "image": "/assets/developer-section/laptop.svg",
+        "title": "Backend Developers",
+        "description": "Skilled in Node.js, Python, Java, PHP, etc."
+    },
+    {
+        "image": "/assets/developer-section/stack.svg",
+        "title": "Full-Stack Developers",
+        "description": "End-to-end development expertise."
+    },
+    {
+        "image": "/assets/developer-section/mobile.svg",
+        "title": "Mobile App Developers",
+        "description": "iOS & Android experts."
+    },
+    {
+        "image": "/assets/developer-section/games.svg",
+        "title": "Game Developers",
+        "description": "Unity, Unreal Engine specialists."
+    },
+    {
+        "image": "/assets/developer-section/game.svg",
+        "title": "AI/ML Engineers",
+        "description": "AI and machine learning experts."
+    }
+]
