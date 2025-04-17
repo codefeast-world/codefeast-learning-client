@@ -57,12 +57,12 @@ export default function RootLayout({
         className={`${poppins.variable} ${raleway.variable} ${geistSans.variable} ${geistMono.variable} ${ibmPlexSans.variable} antialiased`}
       >
         <ThemeProvidersContext >
-        <Suspense fallback={<div>Loading...</div>}>
-        <LoadingBar />
-      </Suspense>
+          <Suspense fallback={<div>Loading...</div>}>
+            <LoadingBar />
+          </Suspense>
           <Navbar />
           {children}
-        
+
           <Clients />
           <CTA />
           <Footer />
