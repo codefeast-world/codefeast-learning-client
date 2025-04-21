@@ -1,0 +1,89 @@
+[
+    {
+      "id": "course-001",
+      "slug": "/courses/mern-stack-development",
+      "title": "MERN Stack Development",
+      "subtitle": "Development / Mobile Engineer",
+      "instructor": "Siddharth Verma",
+      "price": 1799,
+      "originalPrice": 2499,
+      "discount": "28% OFF",
+      "pricing": {
+        "currency": "INR",
+        "discounted": 1799,
+        "original": 2499,
+        "savings": 700
+      },
+      "sections": 22,
+      "lectures": 152,
+      "length": "21h 33m total length",
+      "duration": "6 weeks",
+      "startDate": "2025-05-01",
+      "language": "English",
+      "rating": 4.8,
+      "ratingsCount": 1812,
+      "image": "/assets/courses/mern.png",
+      "description": "The MERN stack is a JavaScript-based framework for developing web applications. It consists of MongoDB, Express.js, React, and Node.js. This course will guide you through building full-stack applications using these technologies.",
+      "syllabus": [
+        "Introduction to MERN Stack",
+        "Building REST APIs with Node.js and Express",
+        "Frontend Development with React",
+        "Database Management with MongoDB",
+        "Deploying Full-Stack Applications"
+      ],
+      "reviews": [
+        {
+          "name": "Amit Sinha",
+          "comment": "One of the best MERN stack courses I've taken. The examples are super practical."
+        },
+        {
+          "name": "Neha Sharma",
+          "comment": "Clear and concise. I landed an internship using the skills from this course!"
+        }
+      ]
+    },
+    {
+      "id": "course-002",
+      "slug": "/courses/data-science",
+      "title": "Data Science & Machine Learning",
+      "subtitle": "AI / Data Science",
+      "instructor": "Dr. Meenakshi Iyer",
+      "price": 2099,
+      "originalPrice": 2999,
+      "discount": "30% OFF",
+      "pricing": {
+        "currency": "INR",
+        "discounted": 2099,
+        "original": 2999,
+        "savings": 900
+      },
+      "sections": 18,
+      "lectures": 120,
+      "length": "18h 10m total length",
+      "duration": "5 weeks",
+      "startDate": "2025-05-08",
+      "language": "English",
+      "rating": 4.7,
+      "ratingsCount": 2345,
+      "image": "/assets/courses/Datascience.png",
+      "description": "This comprehensive course introduces you to the world of Data Science and Machine Learning. Learn how to clean, visualize, and model data using Python and popular libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.",
+      "syllabus": [
+        "Introduction to Data Science",
+        "Data Wrangling with Pandas and NumPy",
+        "Data Visualization with Matplotlib and Seaborn",
+        "Exploratory Data Analysis (EDA)",
+        "Machine Learning Algorithms and Model Evaluation"
+      ],
+      "reviews": [
+        {
+          "name": "Rahul Kulkarni",
+          "comment": "Excellent course content and great explanations by the instructor. Totally worth it!"
+        },
+        {
+          "name": "Priya Nambiar",
+          "comment": "Super engaging! I feel much more confident in applying for data roles now."
+        }
+      ]
+    }
+  ]
+  

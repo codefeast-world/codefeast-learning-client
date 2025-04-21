@@ -11,7 +11,10 @@
     "label": "Why Us?",
     "href": "/faq"
   },
-  
+  {
+    "label":"Courses",
+    "href": "/courses"
+  },
   {
     "label": "Get in Touch",
     "href": "/contact"

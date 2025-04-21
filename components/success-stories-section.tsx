@@ -5,19 +5,19 @@ import { useEffect, useRef, useState } from 'react';
 
 const storiesData = [
     {
-      number: 100,
+      number: 1000,
       suffix: "+",
       title: "Students Taught",
       description: "Empowering learners through practical coding lessons and real-world projects",
     },
     {
-      number: 50,
+      number: 150,
       suffix: "+",
       title: "Career Switches",
       description: "Learners transitioned into tech from non-tech backgrounds with our mentorship",
     },
     {
-      number: 20,
+      number: 30,
       suffix: "+",
       title: "Industry Mentors",
       description: "Experienced developers guiding learners with personalized support and insights",
