@@ -89,3 +89,25 @@ export interface StagesInterviewProps {
     Heading: string;
     data: Array<{ image: string; title: string; description: string }>;
 }
+
+export interface BlogCardProps {
+    badge: string;
+    title: string;
+    author: string;
+    authorImage: string;
+    date: string;
+    thumbnail: string;
+    onClick: () => void;
+  }
+  export interface HeroBackgroundProps {
+      backgroundImage:String | StaticImageData;
+      overlay?: boolean; // Boolean to show or hide the overlay
+      overlayColor?: string;
+      heading: string;
+      subheading: string;
+      headingAnimation?: object;
+      subheadingAnimation?: object;
+      headingClassName?: string;
+      subheadingClassName?: string;
+      containerClassName?: string;
+  }

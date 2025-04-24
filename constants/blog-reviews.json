@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Leonardo Da Vinci",
+      "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+      "review": "Loved the course. I've learned some very subtle techniques, especially on leaves.",
+      "description": "Poppin' artist."
+    },
+    {
+      "name": "Titania S",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "review": "I loved the course, it had been a long time since I had experimented with watercolors and now I will do it more often thanks to Kitani Studio.",
+      "description": "Art Enthusiast"
+    },
+    {
+      "name": "Zhirkov",
+      "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
+      "review": "Yes. I just emphasize that the use of Photoshop, for non-users, becomes difficult to follow. What requires a course to master it. Safe and very didactic teacher.",
+      "description": "Photoshop Learner"
+    },
+    {
+      "name": "Miphoska",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "review": "I haven't finished the course yet, as I would like to have some feedback from the teacher, about the comments I shared on the forum 3 months ago, and I still haven't had any answer. I think the course is well structured, however the explanations and videos are very quick for beginners. However, it is good to go practicing.",
+      "description": "Course Follower"
+    }
+  ]
+  
