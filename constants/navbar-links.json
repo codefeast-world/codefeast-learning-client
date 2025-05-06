@@ -16,6 +16,10 @@
     "href": "/courses"
   },
   {
+    "label":"All Blogs",
+    "href": "/blogs"
+  },
+  {
     "label": "Get in Touch",
     "href": "/contact"
   }

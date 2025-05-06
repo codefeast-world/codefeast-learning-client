@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "badge": "Coding",
+      "title": "Mastering JavaScript for Web Development",
+      "author": "John Doe",
+      "authorImage": "https://randomuser.me/api/portraits/men/1.jpg",
+      "date": "April 10, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/4sqUOcdTGU0/maxresdefault.jpg"
+    },
+    {
+      "id": 7,
+      "badge": "Coding",
+      "title": "Advanced Python Techniques",
+      "author": "Emily Carter",
+      "authorImage": "https://randomuser.me/api/portraits/women/7.jpg",
+      "date": "April 12, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/HGOBQPFzWKo/maxresdefault.jpg"
+    },
+    {
+      "id": 8,
+      "badge": "Coding",
+      "title": "Clean Code: Writing Maintainable Software",
+      "author": "Robert Martin",
+      "authorImage": "https://randomuser.me/api/portraits/men/8.jpg",
+      "date": "March 18, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/7EmboKQH8lM/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "badge": "UI/UX",
+      "title": "Design Thinking: From Idea to Prototype",
+      "author": "Sarah Lee",
+      "authorImage": "https://randomuser.me/api/portraits/women/2.jpg",
+      "date": "March 28, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/NXLKgUgr6qI/maxresdefault.jpg"
+    },
+    {
+      "id": 9,
+      "badge": "UI/UX",
+      "title": "UI Design Principles: A Visual Guide",
+      "author": "Emily Chen",
+      "authorImage": "https://randomuser.me/api/portraits/women/7.jpg",
+      "date": "April 22, 2025",
+      "thumbnail": "https://htmlburger.com/blog/wp-content/uploads/2022/02/UI-design-principles.png"
+    },
+    {
+      "id": 10,
+      "badge": "UI/UX",
+      "title": "Figma for Beginners: Learn by Doing",
+      "author": "Nina Patel",
+      "authorImage": "https://randomuser.me/api/portraits/women/10.jpg",
+      "date": "April 2, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/FTFaQWZBqQ8/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "badge": "AI",
+      "title": "AI for Everyone: Basics to Applications",
+      "author": "Dr. Kelvin",
+      "authorImage": "https://randomuser.me/api/portraits/men/3.jpg",
+      "date": "March 15, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/ZWufXVNK9KA/maxresdefault.jpg"
+    },
+    {
+      "id": 11,
+      "badge": "AI",
+      "title": "Getting Started with Machine Learning",
+      "author": "Dr. Ayesha Khan",
+      "authorImage": "https://randomuser.me/api/portraits/women/11.jpg",
+      "date": "April 5, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/GwIo3gDZCVQ/maxresdefault.jpg"
+    },
+    {
+      "id": 12,
+      "badge": "AI",
+      "title": "Neural Networks Explained Visually",
+      "author": "Greg Wilson",
+      "authorImage": "https://randomuser.me/api/portraits/men/12.jpg",
+      "date": "March 5, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/aircAruvnKk/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "badge": "DevOps",
+      "title": "DevOps Bootcamp: CI/CD and Cloud",
+      "author": "Priya Sharma",
+      "authorImage": "https://randomuser.me/api/portraits/women/4.jpg",
+      "date": "February 20, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/b3DXnnqTqt4/maxresdefault.jpg"
+    },
+    {
+      "id": 13,
+      "badge": "DevOps",
+      "title": "Kubernetes in 100 Seconds",
+      "author": "Mohammed Sameer",
+      "authorImage": "https://randomuser.me/api/portraits/men/8.jpg",
+      "date": "April 18, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/wXuSqFJVNQA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBWGu16mJt1j_ibHYyE8R8NZ0i58w"
+    },
+    {
+      "id": 14,
+      "badge": "DevOps",
+      "title": "Monitoring with Prometheus & Grafana",
+      "author": "Daisy Moore",
+      "authorImage": "https://randomuser.me/api/portraits/women/14.jpg",
+      "date": "March 12, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/h4Sl21AKiDg/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "badge": "Mobile",
+      "title": "Build Cross-platform Apps with React Native",
+      "author": "Amit Verma",
+      "authorImage": "https://randomuser.me/api/portraits/men/5.jpg",
+      "date": "January 30, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/nIQBr9otCN4/maxresdefault.jpg"
+    },
+    {
+      "id": 15,
+      "badge": "Mobile",
+      "title": "Flutter Crash Course: Build an App in a Day",
+      "author": "Melissa Grant",
+      "authorImage": "https://randomuser.me/api/portraits/women/15.jpg",
+      "date": "February 8, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/x0uinJvhNxI/maxresdefault.jpg"
+    },
+    {
+      "id": 16,
+      "badge": "Mobile",
+      "title": "iOS Development with SwiftUI",
+      "author": "Chris C.",
+      "authorImage": "https://randomuser.me/api/portraits/men/9.jpg",
+      "date": "April 15, 2025",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrSdCYG5aV2QL037eMUIi50gFuWjhFBWmfw&s"
+    },
+    {
+      "id": 6,
+      "badge": "Data",
+      "title": "Data Science Fundamentals with Python",
+      "author": "Ritika Mehra",
+      "authorImage": "https://randomuser.me/api/portraits/women/6.jpg",
+      "date": "January 12, 2025",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJwehLfLGq6-EXN_M4UFqky8XM5RyR43AyQ&s"
+    },
+    {
+      "id": 17,
+      "badge": "Data",
+      "title": "Data Analysis with Pandas",
+      "author": "Michael Wong",
+      "authorImage": "https://randomuser.me/api/portraits/men/17.jpg",
+      "date": "April 3, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/vmEHCJofslg/maxresdefault.jpg"
+    },
+    {
+      "id": 18,
+      "badge": "Data",
+      "title": "SQL Crash Course: Learn in 30 Minutes",
+      "author": "Lara Bates",
+      "authorImage": "https://randomuser.me/api/portraits/women/18.jpg",
+      "date": "March 27, 2025",
+      "thumbnail": "https://i.ytimg.com/vi/27axs9dO7AE/maxresdefault.jpg"
+    }
+  ]
+  
